@@ -1,6 +1,6 @@
-MVC
-Razor Page
-Injeção de Dependencia
-ViewComponents
-Logs
-Entity Framework
+MVC |
+Razor Page |
+Injeção de Dependencia |
+ViewComponents |
+Logs |
+Entity Framework |

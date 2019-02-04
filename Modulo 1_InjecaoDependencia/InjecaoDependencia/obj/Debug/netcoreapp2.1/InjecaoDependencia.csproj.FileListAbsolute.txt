@@ -1,0 +1,64 @@
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.deps.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.runtimeconfig.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.runtimeconfig.dev.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.Views.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.csprojAssemblyReference.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.csproj.CoreCompileInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.AssemblyInfoInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.AssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.TagHelpers.input.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.TagHelpers.output.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorCoreGenerate.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorTargetAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorTargetAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.csproj.CopyComplete
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.deps.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.runtimeconfig.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.runtimeconfig.dev.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.Views.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\bin\Debug\netcoreapp2.1\InjecaoDependencia.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.csprojAssemblyReference.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.csproj.CoreCompileInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.AssemblyInfoInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.AssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.TagHelpers.input.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.TagHelpers.output.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorCoreGenerate.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorTargetAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.RazorTargetAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_InjecaoDependencia\InjecaoDependencia\obj\Debug\netcoreapp2.1\InjecaoDependencia.csproj.CopyComplete

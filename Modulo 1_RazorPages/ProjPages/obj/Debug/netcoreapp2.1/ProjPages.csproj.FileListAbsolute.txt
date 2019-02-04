@@ -1,0 +1,76 @@
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.deps.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.runtimeconfig.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.runtimeconfig.dev.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.Views.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.csproj.CoreCompileInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.AssemblyInfoInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.AssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.TagHelpers.input.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.TagHelpers.output.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorCoreGenerate.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorTargetAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorTargetAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.csproj.CopyComplete
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.csprojAssemblyReference.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\teste\teste.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Create.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Delete.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Details.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Edit.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Index.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.deps.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.runtimeconfig.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.runtimeconfig.dev.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.Views.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\bin\Debug\netcoreapp2.1\ProjPages.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.csprojAssemblyReference.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.csproj.CoreCompileInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.AssemblyInfoInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.AssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.TagHelpers.input.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.TagHelpers.output.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorCoreGenerate.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Create.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Delete.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Details.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Edit.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Alunos\Index.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\teste\teste.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorTargetAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.RazorTargetAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_RazorPages\ProjPages\obj\Debug\netcoreapp2.1\ProjPages.csproj.CopyComplete

@@ -1,0 +1,64 @@
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.deps.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.runtimeconfig.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.runtimeconfig.dev.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.Views.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.csprojAssemblyReference.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.csproj.CoreCompileInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.AssemblyInfoInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.AssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.TagHelpers.input.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.TagHelpers.output.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorCoreGenerate.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorTargetAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorTargetAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.csproj.CopyComplete
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.deps.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.runtimeconfig.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.runtimeconfig.dev.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.Views.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\bin\Debug\netcoreapp2.1\Logs.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.csprojAssemblyReference.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.csproj.CoreCompileInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.AssemblyInfoInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.AssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.TagHelpers.input.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.TagHelpers.output.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorCoreGenerate.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorTargetAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.RazorTargetAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.Views.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 1\Modulo 1_Logs\Logs\obj\Debug\netcoreapp2.1\Logs.csproj.CopyComplete

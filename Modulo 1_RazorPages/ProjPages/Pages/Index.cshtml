@@ -1,0 +1,70 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@Model.Pessoa
+@Model.Cidade
+
+
+<form method="post">
+    <h2>Formulário de teste</h2>
+    <div class="form-group">
+        <div class="row">
+            <div class="col-md-3">
+                <input type="text" class="form-control" name="parametro1" placeholder="Parametro 1...">
+            </div>
+        </div>
+    </div>
+    <div>
+        <input type="submit" class="btn btn-primary" value="Enviar">
+    </div>
+</form>
+
+<p>******************************************************************************</p>
+
+<form method="post">
+    <h2>Formulário de Pessoa</h2>
+    <div class="form-group">
+        <div class="row">
+            <div class="col-md-3">
+                <input asp-for="@Model.Pessoa.Id" placeholder="Id" class="form-control" style="width:60px;text-align:center">
+                <input asp-for="@Model.Pessoa.Nome" placeholder="Nome" class="form-control"/>
+            </div>
+        </div>
+    </div>
+    <div>
+        <input type="submit" class="btn btn-primary" value="Enviar" asp-page-handler="Pessoa"> @*Subit para o metodo "OnPostPessoa"*@
+    </div>
+</form>
+
+<p>******************************************************************************</p>
+
+<form method="post">
+    <h2>Formulário de Pessoa</h2>
+    <div class="form-group">
+        <div class="row">
+            <div class="col-md-3">
+                <input asp-for="@Model.Pessoa.Id" placeholder="Id" class="form-control" style="width:60px;text-align:center">
+                <input asp-for="@Model.Pessoa.Nome" placeholder="Nome" class="form-control" />
+            </div>
+        </div>
+    </div>
+
+    <h2>Formulário Cidade</h2>
+    <div class="form-group">
+        <div class="row">
+            <div class="col-md-3">
+                <input asp-for="@Model.Cidade.Id" placeholder="Id" class="form-control" style="width:60px;text-align:center">
+                <input asp-for="@Model.Cidade.Nome" placeholder="Nome" class="form-control" />
+                <input asp-for="@Model.Cidade.Estado" placeholder="Estado" class="form-control"/>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <input type="submit" class="btn btn-primary" value="Enviar" asp-page-handler="PessoaCidade"> @*Subit para o metodo "OnPostPessoaCidade"*@
+    </div>
+</form>
+

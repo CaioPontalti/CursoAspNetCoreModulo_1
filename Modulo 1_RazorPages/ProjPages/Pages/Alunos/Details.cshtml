@@ -1,0 +1,37 @@
+﻿@page
+@model ProjPages.Pages.Alunos.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Aluno</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Aluno.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Aluno.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Aluno.DataCadastro)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Aluno.DataCadastro)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Aluno.Burro)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Aluno.Burro)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Aluno.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
